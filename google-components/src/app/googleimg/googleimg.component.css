@@ -1,0 +1,9 @@
+/* GOOGLE AREA */
+.google #google_logo {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  clear: both;
+  padding-top: 12px;
+  padding-bottom: 20px;
+}

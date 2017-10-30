@@ -1,0 +1,22 @@
+.buttons {
+  text-align: center;
+  padding-top: 30px;
+  margin-bottom: 250px;
+}
+
+#google_search {
+  margin-top: 10px;
+  font: bold 11px Arial;
+  width: 95px;
+  height: 30px;
+  -webkit-border-radius: 0;
+  background-color: #f2f2f2;
+  border: none;
+}
+#im_feeling_lucky {
+  font: bold 11px Arial;
+  width: 110px;
+  height: 30px;
+  background-color: #f2f2f2;
+  border: none;
+}
